@@ -40,4 +40,15 @@ This project focuses on practicing DOM manipulation, event handling, and creatin
 
 ---
 
-## 📂 Project Structure
+---
+
+## 📸 Screenshots
+
+### modals buttons
+
+![modals](images/buttons.png)
+
+### open modal
+
+![open modal](images/open.png)
+---
